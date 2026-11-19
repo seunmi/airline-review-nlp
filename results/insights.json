@@ -1,0 +1,40 @@
+{
+  "n_tweets": 14640,
+  "n_negative": 9178,
+  "n_unlabelled_negatives_classified": 1190,
+  "negative_share_by_airline": {
+    "Virgin America": 0.359,
+    "Delta": 0.43,
+    "Southwest": 0.49,
+    "United": 0.689,
+    "American": 0.71,
+    "US Airways": 0.777
+  },
+  "complaint_share_overall": {
+    "Customer service": 0.372,
+    "Late flight": 0.198,
+    "Cancelled flight": 0.098,
+    "Luggage": 0.095,
+    "Bad flight experience": 0.086,
+    "Booking problems": 0.07,
+    "Cabin crew": 0.06,
+    "Long queues": 0.021
+  },
+  "top_two_topics_share": 0.571,
+  "top_complaint_by_airline": {
+    "American": "Customer service",
+    "Delta": "Late flight",
+    "Southwest": "Customer service",
+    "US Airways": "Customer service",
+    "United": "Customer service",
+    "Virgin America": "Customer service"
+  },
+  "customer_service_share_by_airline": {
+    "American": 0.442,
+    "Delta": 0.275,
+    "Southwest": 0.388,
+    "US Airways": 0.403,
+    "United": 0.322,
+    "Virgin America": 0.376
+  }
+}

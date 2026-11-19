@@ -1,0 +1,15 @@
+# Core (app + TF-IDF models). scikit-learn is pinned because the saved models depend on it.
+scikit-learn==1.9.1
+pandas>=2.2
+numpy>=2.0
+joblib>=1.4
+matplotlib>=3.8
+streamlit>=1.40
+
+# Embedding and zero-shot models
+torch>=2.4
+transformers>=5.0
+sentence-transformers>=5.0
+
+# Optional: Gemini zero-shot (src/gemini_classify.py)
+# google-genai>=1.0

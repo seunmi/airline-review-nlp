@@ -1,0 +1,7 @@
+{
+  "macro_f1": 0.2666,
+  "weighted_f1": 0.3936,
+  "accuracy": 0.395,
+  "n_test": 400,
+  "seconds": 1787
+}

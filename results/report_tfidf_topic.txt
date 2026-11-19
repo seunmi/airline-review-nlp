@@ -1,0 +1,14 @@
+                       precision    recall  f1-score   support
+
+Bad flight experience      0.508     0.560     0.533       116
+     Booking problems      0.544     0.585     0.564       106
+           Cabin crew      0.481     0.542     0.510        96
+     Cancelled flight      0.712     0.775     0.742       169
+     Customer service      0.779     0.727     0.752       582
+          Late flight      0.730     0.754     0.742       333
+          Long queues      0.292     0.194     0.233        36
+              Luggage      0.810     0.775     0.792       160
+
+             accuracy                          0.698      1598
+            macro avg      0.607     0.614     0.608      1598
+         weighted avg      0.701     0.698     0.698      1598

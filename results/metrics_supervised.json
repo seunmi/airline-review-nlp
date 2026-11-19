@@ -1,0 +1,40 @@
+{
+  "topic": {
+    "n_train": 6390,
+    "n_test": 1598,
+    "majority_class": {
+      "macro_f1": 0.0667,
+      "weighted_f1": 0.1945,
+      "accuracy": 0.3642
+    },
+    "tfidf_logreg": {
+      "macro_f1": 0.6085,
+      "weighted_f1": 0.6982,
+      "accuracy": 0.6977
+    },
+    "embedding_logreg": {
+      "macro_f1": 0.5535,
+      "weighted_f1": 0.6512,
+      "accuracy": 0.6327
+    }
+  },
+  "sentiment": {
+    "n_train": 11712,
+    "n_test": 2928,
+    "majority_class": {
+      "macro_f1": 0.2568,
+      "weighted_f1": 0.4829,
+      "accuracy": 0.6267
+    },
+    "tfidf_logreg": {
+      "macro_f1": 0.7503,
+      "weighted_f1": 0.8043,
+      "accuracy": 0.8023
+    },
+    "embedding_logreg": {
+      "macro_f1": 0.7319,
+      "weighted_f1": 0.7773,
+      "accuracy": 0.7678
+    }
+  }
+}
